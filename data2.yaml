@@ -1,0 +1,17 @@
+train: /home/dharun/Desktop/yolov9/yolov9_nit/yolov9_clone/dataset/train/images # train images (relative to 'path') 118287 images
+val: /home/dharun/Desktop/yolov9/yolov9_nit/yolov9_clone/dataset/val/images  # val images (relative to 'path') 5000 images
+test:  /home/dharun/Desktop/yolov9/yolov9_nit/yolov9_clone/dataset/test/images # 20288 of 40670 images, submit to https://competitions.codalab.org/competitions/20794
+  
+nc: 7  # Number of classes
+
+names:
+  0: none
+  1: angry
+  2: disgust
+  3: fear
+  4: happy
+  5: neutral
+  6: sad
+  7: surprise
+  
+   
